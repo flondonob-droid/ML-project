@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USUARIO/Desktop/ML%20Final%20Project/mlruns/888952949860413202/e9c5a1f4ad78438f8c11d18448f82da8/artifacts
+end_time: 1764625266196
+entry_point_name: ''
+experiment_id: '888952949860413202'
+lifecycle_stage: active
+run_id: e9c5a1f4ad78438f8c11d18448f82da8
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764625266082
+status: 3
+tags: []
+user_id: USUARIO

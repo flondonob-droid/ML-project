@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USUARIO/Desktop/ML%20Final%20Project/mlruns/247615077003861995/2d1ad4a4b2e242a692ef0049b8d95ac5/artifacts
+end_time: 1764625266057
+entry_point_name: ''
+experiment_id: '247615077003861995'
+lifecycle_stage: active
+run_id: 2d1ad4a4b2e242a692ef0049b8d95ac5
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764625265653
+status: 3
+tags: []
+user_id: USUARIO

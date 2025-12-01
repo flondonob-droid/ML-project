@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USUARIO/Desktop/ML%20Final%20Project/mlruns/264651164432546888/297a6f91be4949c9a0e51c64b9f1f918/artifacts
+end_time: 1764625266332
+entry_point_name: ''
+experiment_id: '264651164432546888'
+lifecycle_stage: active
+run_id: 297a6f91be4949c9a0e51c64b9f1f918
+run_name: SupportVectorMachine
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764625266222
+status: 3
+tags: []
+user_id: USUARIO
